@@ -1,0 +1,17 @@
+table { width: 100%;
+    height: 760px;
+    background-image: url(fundo\ 1.png) ;
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+ td { width: 25%;}
+ body{ margin: 0;}
+
+ #roxo {background-color: #3A0B63;}
+
+ #rosa {background-color: #FB45C7;}
+
+ #verde {background-color: #89f668;}
+
+ #coluna { column-count: 3; text-align: center;}
+ #roxoescuro {background-color: rgba(67, 11, 110, 1);}
